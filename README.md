@@ -1,0 +1,1 @@
+# Alignova: Aligning LLMs for better reliability, safety, and adherence to human intent.
